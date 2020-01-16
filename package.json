@@ -1,0 +1,14 @@
+{
+  "name": "ltn12",
+  "version": "1.0.0",
+  "description": "filters, sources and sinks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ltn12"
+  ],
+  "author": "prack",
+  "license": "MIT"
+}
